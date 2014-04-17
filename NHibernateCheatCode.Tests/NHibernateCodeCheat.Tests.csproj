@@ -64,7 +64,7 @@
     <Content Include="Notes.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\NHibernateStudy\NHibernateCodeCheat.csproj">
+    <ProjectReference Include="..\NHibernateCheatCode\NHibernateCodeCheat.csproj">
       <Project>{60922C3E-0287-4ED7-9700-931C0ADC8B7F}</Project>
       <Name>NHibernateCodeCheat</Name>
     </ProjectReference>
