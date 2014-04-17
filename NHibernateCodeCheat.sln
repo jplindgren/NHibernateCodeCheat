@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NHibernateCodeCheat.Tests", "NHibernateStudy.Tests\NHibernateCodeCheat.Tests.csproj", "{1CB58AD5-A031-4F5A-89DD-D9EBD545296B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NHibernateCodeCheat", "NHibernateStudy\NHibernateCodeCheat.csproj", "{60922C3E-0287-4ED7-9700-931C0ADC8B7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CB58AD5-A031-4F5A-89DD-D9EBD545296B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CB58AD5-A031-4F5A-89DD-D9EBD545296B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CB58AD5-A031-4F5A-89DD-D9EBD545296B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CB58AD5-A031-4F5A-89DD-D9EBD545296B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60922C3E-0287-4ED7-9700-931C0ADC8B7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60922C3E-0287-4ED7-9700-931C0ADC8B7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60922C3E-0287-4ED7-9700-931C0ADC8B7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60922C3E-0287-4ED7-9700-931C0ADC8B7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
